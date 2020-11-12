@@ -1,0 +1,61 @@
+body {
+    background-color: lavenderblush;
+    color: #333333;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+.page {
+    width: 80%;
+    text-align: center;
+    margin: 5em auto;
+}
+
+header {
+    font-size: 1.5em;
+    line-height: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h3 #clock {
+    font-size: 2.5em;
+    padding: 2em 0;
+}
+
+#lolcatImage {
+    max-width: 100%;
+    border-radius: 100px;
+    border: 10px solid #333;
+}
+
+select {
+    padding: 0.5em;
+    margin: 0.5em;
+}
+
+blockquote {
+    font-size: 2em;
+    font-weight: bold;
+    text-shadow: 2px 2px #000;
+    margin: -80px 0 100px 0;
+    color: chartreuse;
+}
+
+blockquote:before { content: '"'; }
+blockquote:after { content: '"'; }
+
+#kalasknapp {
+    width: 300px;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 0;
+    margin: 3em 0;
+}
