@@ -1,0 +1,1 @@
+Beginner exercise in JavaScript, copying example of cat clock by SkillCrush
